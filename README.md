@@ -6,4 +6,5 @@ Free Python Tutorial For Beginners
 Table of Contents
 =================
 
-* [envirius](#envirius)
+* [Python Variable](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/001-variable.py)
+* [Python String: Working With Text](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/002-strings.py)
