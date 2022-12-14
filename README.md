@@ -6,7 +6,7 @@ Free Python Tutorial For Beginners
 Table of Contents
 =================
 
-* [Introduction to Python]
+* Introduction to Python
     * [Python Variable](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/001-variable.py)
     * [Python String: Working With Text](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/002-strings.py)
     * [Python Boolean and Conditional Programming](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/003-python-boolean-and-operators.py)
