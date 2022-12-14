@@ -11,4 +11,5 @@ Table of Contents
 * [Python Boolean and Conditional Programming: if.. else](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/003-python-boolean-and-operators.py)
 * [Python For Loop and While Loop](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/004-python-for-loop.py)
 * [Python Function](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/005-functions.py)
+* [Your First Python Program](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/006-your-first-program.py)
 <!-- * [](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/00x-xxxx.py) -->
