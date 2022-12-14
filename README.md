@@ -14,5 +14,5 @@ Table of Contents
     * [Python Function](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/005-functions.py)
     * [Your First Python Program](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/006-your-first-program.py)
     * [Python Comment](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/007-python-comment.py)
-* [Creating Python Programs]()
+* Creating Python Programs
 <!-- * [](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/00x-xxxx.py) -->
