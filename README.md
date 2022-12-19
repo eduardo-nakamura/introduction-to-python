@@ -14,5 +14,13 @@ Table of Contents
     * [Python Function](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/01-basics/005-functions.py)
     * [Your First Python Program](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/01-basics/006-your-first-program.py)
     * [Python Comment](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/01-basics/007-python-comment.py)
-* Creating Python Programs
-<!-- * [](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/00x-xxxx.py) -->
+* [Creating Python Programs](https://python.land/creating-python-programs/python-in-vscode)
+* Classes and Objects
+    * [Intro](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/008-intro.py)
+    * [Constructor](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/009-constructors.py)
+    * [Inheritance ](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/010-inheritance.py)
+    * [Module](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/011-modules.py)
+    * [Python Packages](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/012-packages.py)
+* Python Data Types
+    * [Integer](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/013-integers.py)
+<!-- * [](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/0xx-xxxx.py) -->

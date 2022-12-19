@@ -1,0 +1,8 @@
+- Command palette - Control + Shift + P
+- Create a new Python project in VSCode
+- Run
+    * Run Without Debugging: press Control + F5
+    * Start Debugging: F5
+- Create run configurations
+    * Run -> Add Configuration -> Python File
+- Run code from current line: Shift+Enter
