@@ -23,4 +23,7 @@ Table of Contents
     * [Python Packages](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/03-objects-and-classes/012-packages.py)
 * Python Data Types
     * [Integer](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/013-integers.py)
+    * [Float](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/014-float.py)
+    * [Tuple](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/015-tuple.py)
+    * [List](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/016-list.py)
 <!-- * [](https://github.com/eduardo-nakamura/introduction-to-python/blob/master/04-python-data-types/0xx-xxxx.py) -->
